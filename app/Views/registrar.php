@@ -80,6 +80,7 @@
                                 </div>
                                 <div class="footer text-center">
                                     <button type="submit" class="btn btn-fill btn-secondary btn-wd">Cadastrar</button>
+                                    <a href="<?= site_url("public/")?>" class="btn btn-fill btn-secondary btn-wd"> Login</a>
                                 </div>
                             </div>
                         </div>

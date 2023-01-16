@@ -69,6 +69,7 @@
                                 </div>
                                 <div class="footer text-center">
                                     <button type="submit" class="btn btn-fill btn-secondary btn-wd">Entrar</button>
+                                    <a href="<?= site_url("public/registrar")?>" class="btn btn-fill btn-secondary btn-wd"> Cadastrar</a>
                                 </div>
                             </div>
                     </div>
